@@ -16,7 +16,7 @@ Thank you for your understanding and consideration. I look forward to your respo
 
 Yours sincerely,  
 Ayush Raj   
-First Year, Aerospace engineering 
+First Year, Aerospace engineering  
 VIT Bhopal  
 
 ---
@@ -36,6 +36,6 @@ I would be grateful for the opportunity to be considered for an internship posit
 Thank you for your time and consideration.
 
 Yours sincerely,  
-Ayush Raj 
-First Year, Aerospacce engineering
+Ayush Raj   
+First Year, Aerospacce engineering  
 VIT Bhopal
