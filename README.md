@@ -1,8 +1,8 @@
 # CS_DIGITAL_LITERACY
 # Digital Literacy Project
 ## About Me
-*Name-* Ayush Raj
-*Reg No.-* 25BAS10099  
+*Name-* Ayush Raj  
+*Reg No.-* 25BAS10099   
 *Year-* First-year  
 *Branch-* B.Tech Aerospace
 *Course Code-* CSE0001  
