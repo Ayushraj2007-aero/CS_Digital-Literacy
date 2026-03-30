@@ -1,13 +1,13 @@
-#github
+# Github
 
 ![github](github.png) 
 
-#linkedin
+# Linkedin
 
 ![linkedin](linkedin.png)  
 
 ![linkedin](linkedin2.png)
 
-#Stackoverflow
+# Stackoverflow
 
 ![Stackoverflow](Stackoverflow.png)  
