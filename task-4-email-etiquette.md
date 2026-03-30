@@ -15,7 +15,7 @@ I sincerely apologize for any inconvenience caused. I am committed to completing
 Thank you for your understanding and consideration. I look forward to your response.
 
 Yours sincerely,  
-Ayush Raj 
+Ayush Raj   
 First Year, Aerospace engineering 
 VIT Bhopal  
 
